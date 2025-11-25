@@ -97,8 +97,6 @@ Model: bagian yang berhubungan langsung dengan database
 View: bagian yang menampilkan antarmuka pengguna
 Presenter: pengendali alur yang menghubungkan View & Model
 
-Arsitektur ini membuat program lebih rapi, mudah dirawat, dan modul-modul tidak saling bercampur
-
 # Dokumentasi
 ## Pembalap
 ![Deskripsi gambar](Dokumentasi/tblPembalap.gif)
