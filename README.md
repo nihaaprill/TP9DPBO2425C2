@@ -44,6 +44,7 @@ View berfungsi untuk:
 - Menyajikan tampilan visual kepada pengguna
 - Menampilkan tabel data
 - Menampilkan form input/edit
+  
 View hanya fokus pada tampilan (HTML + styling) tanpa logika data.
 
 ## C. Presenter ##
@@ -54,6 +55,7 @@ Tugasnya:
 - Mengirim data ke View
 - Menerima aksi user (add/edit/delete)
 - Menentukan tampilan mana yang harus dibuka
+  
 Presenter adalah pengendali utama alur aplikasi.
 
 # Alur Program
