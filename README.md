@@ -93,9 +93,9 @@ Presenter adalah pengendali utama alur aplikasi.
 - Presenter menampilkan ulang daftar terbaru
 
 ## Kesimpulan ##
-Model: bagian yang berhubungan langsung dengan database
-View: bagian yang menampilkan antarmuka pengguna
-Presenter: pengendali alur yang menghubungkan View & Model
+- Model: bagian yang berhubungan langsung dengan database
+- View: bagian yang menampilkan antarmuka pengguna
+- Presenter: pengendali alur yang menghubungkan View & Model
 
 # Dokumentasi
 ## Pembalap
