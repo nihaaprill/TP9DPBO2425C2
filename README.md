@@ -2,7 +2,29 @@
 
 Saya Niha April Miani dengan NIM 2402567 mengerjakan Tugas Praktikum 9 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-# 1. Desain Program
+# Desain Tabel
+![Deskripsi gambar](Dokumentasi/desain.png)
+
+1. Tabel/Class race_event
+Tabel ini merepresentasikan data event balapan
+- id: Kunci utama, penanda unik untuk setiap event
+- nama: Nama event balapan (misalnya: MotoGP Mandalikna, dll)
+- lokasi: Tempat atau sirkuit berlangsungnya event
+- tanggal: Tanggal pelaksanaan balapan
+- jumlah_laps: Jumlah putaran yang harus diselesaikan dalam event tersebut
+Fungsi utama tabel ini adalah untuk menyimpan detail setiap event balapan yang akan diikuti oleh para pembalap
+
+2. Tabel/Class pembalap
+Tabel ini merepresentasikan data pembalap 
+- id: Kunci utama, identitas unik setiap pembalap
+- nama: Nama lengkap pembalap
+- tim: Tim tempat pembalap bernaung
+- negara: Asal negara pembalap
+- poinMusim: Total poin yang dikumpulkan selama satu musim
+- jumlahMenang: Jumlah kemenangan pembala
+Tabel ini berfungsi untuk menyimpan informasi dan statistik performa pembalap
+
+# Desain Program
 ## A. Model ##
 Bagian Model bertanggung jawab untuk:
 - Mengelola koneksi ke database
